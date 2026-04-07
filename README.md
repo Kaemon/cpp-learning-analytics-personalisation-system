@@ -12,7 +12,7 @@ PLAPS is built around four core components, each handled by a team member using 
 
 | Task | Description | Data Structure |
 |---|---|---|
-| **Task 1** | Learner Registration & Session Management | Queue / Circular Queue |
+| **Task 1** | Learner Registration & Session Management | Queue |
 | **Task 2** | Activity Navigation & Session Flow | Stack |
 | **Task 3** | Recent Activity Logging & Performance History | Circular Queue |
 | **Task 4** | At-Risk Learner Priority & Recommendation Engine | Priority Queue |

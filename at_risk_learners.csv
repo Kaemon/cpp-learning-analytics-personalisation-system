@@ -1,0 +1,4 @@
+Rank,Student_ID,Name,Score,FailedAttempts,Risk_Score,Recommendation
+1,TP04,Lucas,20,4,64,"URGENT: Repeat previous topic and attempt an easier activity."
+2,TP03,Ryan,40,2,29,"WARNING: Review recent mistakes carefully before proceeding."
+3,TP02,Javen,60,0,-6,"GOOD: Excellent progress. Keep up the good work!"

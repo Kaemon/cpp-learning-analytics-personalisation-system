@@ -1,0 +1,7 @@
+ID,Topic,Difficulty,Description,Answer
+Q001,Variables,Easy,What is the keyword for integer in C++?,int
+Q002,Arrays,Medium,What is the index of the first element in an array?,0
+Q003,Functions,Easy,What is the return type of a function that returns nothing?,void
+Q004,Pointers,Hard,What operator is used to get the memory address of a variable?,&
+Q005,Loops,Medium,What keyword is used to exit a loop immediately?,break
+Q006,Conditionals,Medium,Which symbol represents the logical AND operator?,&&
